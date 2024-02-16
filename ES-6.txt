@@ -1,0 +1,23 @@
+This is Advance JavaScript ES-6 version in this version there are major changes --
+
+tut 1 - let const variables
+tut 2 - Template Strings
+tut 3 - Arrow Functions
+tut 4 - Rest Opertor 
+tut 5 - Spread Opertor
+tut 6 - Object Literals
+tut 7 - Destructring Array
+tut 8 - Destructring Object
+tut 9 - OOPs
+tut 10 - Class Inheritance
+tut 11 - Modules
+tut 12 - Promises
+tut 13 - Promises.all
+tut 14 - Ajax
+tut 15 - Fetch API
+tut 16 - Async & Await
+tut 17 - Symbol
+tut 18 - Iterators
+tut 19 - Generators
+tut 20 - Strict Modes
+tut 21 - Error Handling
