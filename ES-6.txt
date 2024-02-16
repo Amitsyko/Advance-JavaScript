@@ -1,7 +1,7 @@
 This is Advance JavaScript ES-6 version in this version there are major changes --
 
 tut 1 - let const variables
-tut 2 - Template Strings
+tut 2 - Template Strings/Litrals
 tut 3 - Arrow Functions
 tut 4 - Rest Opertor 
 tut 5 - Spread Opertor
